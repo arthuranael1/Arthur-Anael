@@ -1,7 +1,7 @@
 # Arthur Anael
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&size=30&duration=4000&pause=100&center=falso&vCenter=falso&multiline=true&repeat=verdadeiro&random=falso&width=435&lines=Ol%C3%A1%2C+bem+vindo+ao+meu+perfil.)](https://git.io/typing-svg)
 
-![ezgif com-resize(1)](https://github.com/user-attachments/assets/0c088d4b-cd16-4572-8744-b19cada5135b)
+![ezgif com-resize (1)](https://github.com/user-attachments/assets/b877ccd8-99d1-4c1b-a9e6-7fb6b471806d)
 
 ### Estudante de Análise e Desenvolvimento de Sistemas na Faculdade UNIFG
 
